@@ -1,0 +1,85 @@
+n = 10  # πλήθος στοιχειων
+maxint = 30
+COLOR0 =  blue
+COLOR1 = orange
+COLOR2 = green
+COLOR3 = red
+BGCOLOR = white
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
